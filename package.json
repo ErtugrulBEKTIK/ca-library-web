@@ -1,0 +1,23 @@
+{
+  "name": "ca-lib-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErtugrulBEKTIK/ca-library-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErtugrulBEKTIK/ca-library-web/issues"
+  },
+  "homepage": "https://github.com/ErtugrulBEKTIK/ca-library-web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
